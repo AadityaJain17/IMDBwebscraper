@@ -6,3 +6,10 @@ I have used spreadsheet to store our fetched data
 
 The libraries which are used in this program BeautifulSoup & Requests to scrape and print our data.
 Openpyxl is used to store our fetched data in an excel file.
+
+
+#Running the imdb_streamlit.py file
+After running the code run the following command in terminal "streamlit run imdb_streamlit.py".
+
+#Deployed version can be found beneath:
+

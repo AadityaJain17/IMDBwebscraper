@@ -1,2 +1,2 @@
 BeautifulSoup
-streamlit-chat
+streamlit_chat
